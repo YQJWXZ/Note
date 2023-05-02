@@ -73,6 +73,13 @@ JSP标准标签库，使用标签取代JSP页面上的Java代码
         ${i}
     </c>
 ``` 
+> <c:forEach></c:forEach>
+```
+<c:choose>
+    <c:when> </c:when>
+    <c:otherwise>  </c:otherwise>
+</c:choose>
+```
 ## 6. MVC模式和三层架构
 
 1. MVC是一种分层开发的模式，其中：
